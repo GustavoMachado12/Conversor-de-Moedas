@@ -1,0 +1,1 @@
+Desafio proposto pela Oracle em colaboração com a Alura, que consistiu na criação de um projeto para obter em tempo real os valores de três moedas específicas e realizar conversões entre elas: Dólar (USD), Real Brasileiro (BRL), Peso Argentino (ARS) e Peso Colombiano (COP), utilizando os dados da API Exchange Rate API.
